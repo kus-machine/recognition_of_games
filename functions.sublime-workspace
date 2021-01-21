@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ima",
+				"image_int"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"im",
+				"imread"
+			],
+			[
+				"b",
+				"board5"
+			],
+			[
+				"f",
+				"first_name"
+			],
+			[
+				"l",
+				"List"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"board",
+				"board"
+			],
+			[
+				"a",
+				"a_temp_copy"
+			],
+			[
+				"a_",
+				"a_temp"
+			],
+			[
+				"a_te",
+				"a_temp_copy"
+			],
+			[
+				"q",
+				"q_temp_copy"
+			],
+			[
+				"q_te",
+				"q_temp"
+			],
+			[
+				"k",
+				"k_temp"
+			],
+			[
+				"ser",
+				"sertif"
+			],
+			[
+				"fla",
+				"flag_mas"
+			],
+			[
+				"u",
+				"update_q"
+			],
+			[
+				"n",
+				"neighbor"
+			],
+			[
+				"sose",
+				"sosedi1"
+			],
+			[
+				"che",
+				"check_q"
+			],
+			[
+				"da",
+				"data_for_prediction"
+			],
+			[
+				"i",
+				"i"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Учеба/ДИПЛОМ/optical_flow.py",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 201.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Preferences\\Package Control",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Documents/GitHub/recognition_of_games/optical_flow.py",
+		"/C/Users/user/Documents/GitHub/recognition_of_games/main.py",
+		"/C/Users/user/Documents/GitHub/recognition_of_games/functions.py",
+		"/C/Учеба/ДИПЛОМ/functions.py",
+		"/C/Учеба/ДИПЛОМ/optical_flow.py",
+		"/C/Учеба/ДИПЛОМ/ffmpeg/main.py",
+		"/C/Учеба/ДИПЛОМ/main.py",
+		"/C/Users/user/Documents/GitHub/CSP_sudoku/func.py",
+		"/C/Users/user/Desktop/teleg_bot/1.py",
+		"/C/Учеба/ДИПЛОМ/klusters/kluster.py",
+		"/C/Учеба/ДИПЛОМ/ffmpeg/gray_median.py",
+		"/C/Учеба/3 курс/3 курс 2 семестр/Стьопочкина МЕТОДЫ ИСЧИСЛЕНИЯ/!курсач/гифка.py",
+		"/C/Учеба/3 курс/3 курс 2 семестр/Стьопочкина МЕТОДЫ ИСЧИСЛЕНИЯ/!курсач/курсач.py",
+		"/C/Users/user/Documents/GitHub/CSP_sudoku/main.py",
+		"/C/Users/user/Desktop/plot_color_quantization.py",
+		"/C/Program Files/Cyberpunk 2077/engine/config/metricLimits.json",
+		"/C/Users/user/Saved Games/CD Projekt Red/Cyberpunk 2077/ManualSave-3/metadata.9.json",
+		"/C/Users/user/Desktop/инфракрасный приемник/sketch_dec26a.ino",
+		"/C/Users/user/Desktop/testing.py",
+		"/C/Users/user/Desktop/1.py",
+		"/C/Users/user/Desktop/sudocu_reborn.py",
+		"/C/Users/user/Desktop/test.py",
+		"/C/Users/user/Desktop/__pycache__/func.cpython-37.pyc",
+		"/C/Users/user/Documents/GitHub/CSP_sudoku/.github/workflows/main_test.yml",
+		"/C/Users/user/Documents/GitHub/CSP_sudoku/sudoku.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/STEAM/steamapps/common/Call of Duty Black Ops II/players/user_zm.cgp",
+		"/C/Учеба/4 курс/БД ИКС Коломийцев/палево/годно/РГР/РГР 2/sql_code_to_protocol.sql",
+		"/C/Users/user/AppData/Local/MK11/Crash-MK11Game-CL197487-2020-12-02_23-38-15.dmp",
+		"/C/Users/user/AppData/Local/MK11/UserSettings.ini",
+		"/C/Users/user/Downloads/Telegram Desktop/generation.py",
+		"/C/Users/user/Downloads/Telegram Desktop/perceptron (5).py",
+		"/D/Mortal Kombat 11/Binaries/Retail/steam_api64.ini",
+		"/D/Mortal Kombat 11/Config/Coalesced.ini",
+		"/D/STEAM/steamapps/common/Call of Duty Black Ops II/t6zm.exe.1908.STEAMSTART",
+		"/C/Users/user/Desktop/laba2.py",
+		"/C/Users/user/Desktop/perec_kr.py",
+		"/C/Program Files (x86)/Arduino/libraries/FastLED-stm32patch/FastLED.h",
+		"/C/Users/user/Desktop/krygin.py",
+		"/C/Users/user/Desktop/SNAP_history_1969_2019.csv",
+		"/C/Users/user/Desktop/Perceptron.py",
+		"/C/Users/user/Desktop/Untitled.ipynb",
+		"/C/Users/user/Desktop/sketch_nov06a/sketch_nov06a.ino",
+		"/C/Users/user/Desktop/gaus.py",
+		"/C/Users/user/Desktop/perseptron.py",
+		"/C/Users/user/Downloads/Telegram Desktop/perseptron (3).py",
+		"/C/Учеба/4 курс/БД ИКС Коломийцев/палево/годно/лаби/BD_Queries/SQLQuery(lab_8_part2).sql",
+		"/C/Users/user/Downloads/Sublime Text 3 v3.2.2 Build 3211 Final Ml_Rus/Medicine/Лечение и русификация.txt",
+		"/C/Users/user/Downloads/Telegram Desktop/first.py",
+		"/C/Users/user/Downloads/Telegram Desktop/second.py",
+		"/C/Users/user/Downloads/Telegram Desktop/2labaB.ipynb",
+		"/C/Users/user/Downloads/Telegram Desktop/perseptron (2).py",
+		"/C/Users/user/Downloads/Telegram Desktop/perseptron.py",
+		"/C/Учеба/3 курс/3 курс 1 семестр/МАТМОД кириенко/3/маятник.py",
+		"/C/Учеба/3 курс/3 курс 2 семестр/Стьопочкина МЕТОДЫ ИСЧИСЛЕНИЯ/3.py",
+		"/C/Учеба/3 курс/3 курс 2 семестр/Стьопочкина МЕТОДЫ ИСЧИСЛЕНИЯ/5.py",
+		"/C/Users/user/Downloads/Telegram Desktop/gener.py",
+		"/C/Users/user/Desktop/gener2.py",
+		"/C/Users/user/Desktop/gener1.py",
+		"/C/Users/user/Desktop/gener.py",
+		"/C/Учеба/4 курс/БД ИКС Коломийцев/палево/годно/лаби/BD_Queries/SQLQuery(lab_8).sql"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\t",
+			"        ",
+			"           ",
+			"            "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t\t",
+			"\t\t\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Учеба/ДИПЛОМ/optical_flow.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "functions.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

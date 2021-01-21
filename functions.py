@@ -79,15 +79,16 @@ def OF_dense_frames(path,n_frames):
         if(key==113):
             cv2.destroyAllWindows()
             break
-def median_filter(path):
+def median_filter(path,n_frames):
     #not finished, just ignore that func
-    frames = [160,720,1280]
-    dir='support/'
-
+    #frames = [160,720,1280]
+    im1=cv2.imread(path + '1.png')
+    frames=[n_frames,np.shape(im1)[0],np.shape(im1)[1]]
     mas = np.zeros(frames, int)
+
     # img_gray_mode = cv2.imread('frames/1.png', cv2.IMREAD_GRAYSCALE)
-    for i in range(frames[0]):
-        tmp = (cv2.imread(dir + str(i + 1) + '.png')).astype(int)
+    for i in range(frames[0]-1):
+        tmp = (cv2.imread(path + str(i + 1) + '.png')).astype(int)
         mas[i] = tmp[..., 0] + (2 ** 8) * tmp[..., 1] + (2 ** 16) * tmp[..., 2]
         print(i)
         bg = np.quantile(mas,0.5, axis=0,overwrite_input = True)
